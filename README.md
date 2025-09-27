@@ -27,3 +27,8 @@ This dashboard provides deep insights into sales performance, customer behavior,
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/your-username/ecommerce-dashboard.git
+
+---
+
+✅ Just save this as `README.md` in your repo root.  
+👉 Do you want me to also generate the **exact Git commands** for creating the `screenshots/` folder, adding your image, and committing it along with the README?
