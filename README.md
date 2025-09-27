@@ -4,7 +4,8 @@ An **interactive E-commerce Dashboard** built using Power BI Template (`.pbit`).
 This dashboard provides deep insights into sales performance, customer behavior, and product trends, helping businesses make data-driven decisions.
 
 ---
-
+<img width="1476" height="815" alt="Screenshot 2025-09-27 130829" src="https://github.com/user-attachments/assets/393cd482-3045-4811-a86f-0e75ea8ca2a1" />
+---
 ## 🚀 Features
 - 📈 **Sales Analysis** – Track revenue, profit, and growth trends.
 - 👥 **Customer Insights** – Understand customer segments and purchase behavior.
