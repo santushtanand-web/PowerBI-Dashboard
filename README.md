@@ -30,5 +30,3 @@ This dashboard provides deep insights into sales performance, customer behavior,
 
 ---
 
-✅ Just save this as `README.md` in your repo root.  
-👉 Do you want me to also generate the **exact Git commands** for creating the `screenshots/` folder, adding your image, and committing it along with the README?
